@@ -1,7 +1,7 @@
 # 测试开发学习路线
 
 > 打造专注于测试开发工程师的学习路线
-- 测试开发学习路线
+- [测试开发学习路线](https://github.com/yangzige/qa-roadmap/blob/main/roadmap/%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 
 
 # 思维导图获取
