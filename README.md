@@ -1,5 +1,5 @@
 # 测试开发学习路线
-
+<img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91Guide-orange" />  <img src="https://img.shields.io/badge/B%E7%AB%99-Bug%E6%8C%96%E6%8E%98%E6%9C%BA-blue" />
 > 打造专注于测试开发工程师的学习路线
 - [测试开发学习路线](https://github.com/yangzige/qa-roadmap/blob/main/roadmap/%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 
